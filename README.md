@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/ghadaichandan39-ctrl/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/ghadaichandan39-ctrl/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/ghadaichandan39-ctrl/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [2965-find-missing-and-repeated-values](https://github.com/ghadaichandan39-ctrl/75DaysLeetCodeChallenge/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ghadaichandan39-ctrl/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/ghadaichandan39-ctrl/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ghadaichandan39-ctrl/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/ghadaichandan39-ctrl/75DaysLeetCodeChallenge/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
 | ------- |
@@ -126,8 +128,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ghadaichandan39-ctrl/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [2965-find-missing-and-repeated-values](https://github.com/ghadaichandan39-ctrl/75DaysLeetCodeChallenge/tree/master/2965-find-missing-and-repeated-values) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/ghadaichandan39-ctrl/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+## Matrix
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/ghadaichandan39-ctrl/75DaysLeetCodeChallenge/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
