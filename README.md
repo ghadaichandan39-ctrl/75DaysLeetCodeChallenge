@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/ghadaichandan39-ctrl/75DaysLeetCodeChallenge/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ghadaichandan39-ctrl/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2965-find-missing-and-repeated-values](https://github.com/ghadaichandan39-ctrl/75DaysLeetCodeChallenge/tree/master/2965-find-missing-and-repeated-values) |
 ## Monotonic Stack
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ghadaichandan39-ctrl/75DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/ghadaichandan39-ctrl/75DaysLeetCodeChallenge/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/ghadaichandan39-ctrl/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ghadaichandan39-ctrl/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 ## Tree
