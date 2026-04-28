@@ -7,6 +7,7 @@ class Solution {
             int num=nums[i];
             map.put(num,map.getOrDefault(num,0)+1);
         }
+        //in following for statment we travers keyset of map and which element is major perform
             for(int key:map.keySet()){
                 if(map.get(key)>n/2){
                     k=key;
