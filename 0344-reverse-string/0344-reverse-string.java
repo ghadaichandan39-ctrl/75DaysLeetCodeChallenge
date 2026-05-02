@@ -10,7 +10,5 @@ class Solution {
         st++;
         end--;
        } 
-    // String ss= s.toString();
-    // String reverse= StringBuilder(ss).reverse();
     }
 }
